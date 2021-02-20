@@ -1,0 +1,13 @@
+.line {
+  width: 25%;
+  text-align: center;
+  display: inline-block;
+  padding: 1%;
+}
+.text {
+  float: left;
+  display: inline-block;
+}
+.addbutton {
+  float: right;
+}

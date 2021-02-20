@@ -1,0 +1,33 @@
+.icon {
+  width: 120px;
+}
+
+.Card {
+  background-color: rgb(255, 255, 255);
+  border-radius: 10px;
+  width: 100%;
+}
+.cardcontour {
+  padding: 0.5%;
+}
+
+.title {
+  color: rgb(0, 0, 0);
+  font-size: 40px;
+  font-weight: 500;
+  text-align: center;
+  text-shadow: 3px 3px rgba(61, 61, 61, 0.548);
+  font-family: Impact, fantasy;
+  font-stretch: ultra-expanded;
+  padding: 1%;
+  overflow-wrap: break-word;
+}
+.deletebutton {
+  float: right;
+  display: inline-block;
+}
+.buttons {
+  width: 13%;
+  text-align: center;
+  display: inline-block;
+}
